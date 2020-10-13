@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<library>
+   <book category="Cooking">
+      <author>Vitalis Smirnovs</author>
+      <title>Daddy's Cooking Book</title>
+	  <ISBN>0123456789</ISBN>
+         
+   </book>
+   <book category="Cooking">
+      <author>Madhudvisa Dasa</author>
+      <title>The Hare Krishna Cookbook</title>
+	  <ISBN>0223456789</ISBN>
+      
+   </book>
+   <book category="Technical">
+      <author>Beale Russell</author>
+	  <author>Finlay Janet</author>
+      <title>Neural Networks and Pattern Recognition in Human-Computer Interaction</title>
+	  <ISBN>0136269958</ISBN>
+     
+   </book>
+   <book category="Technical">
+      <author>Adamy David L.</author>
+      <title>Preparing and Delivering Effective Technical Presentations</title>
+	  <ISBN>0890062463</ISBN>
+      
+  </book>
+   
+</library>
